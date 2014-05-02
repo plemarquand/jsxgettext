@@ -1,0 +1,13 @@
+#: inputs/plural.js:2
+msgid "No Items"
+msgstr ""
+
+#: inputs/plural.js:3
+msgid "One item"
+msgid_plural "%d items selected"
+msgstr ""
+
+#: inputs/plural.js:4
+msgid "Three items"
+msgid_plural "%d, %d, and %d items selected"
+msgstr ""
