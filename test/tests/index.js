@@ -9,9 +9,7 @@ fs.readdirSync(__dirname).forEach(function (item) {
   if (item === self || path.extname(item) !== '.js' && !fs.statSync(item).isDirectory())
     return;
 
-if(item.indexOf('contextual_comments') !== -1) {
   exports['test ' + path.basename(item, '.js')] = require(path.join(__dirname, item));
-}
 });
 
 if (module === require.main)
