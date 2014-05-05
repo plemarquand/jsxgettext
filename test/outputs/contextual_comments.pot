@@ -1,0 +1,24 @@
+#: inputs/contextual_comments.js:6
+#: inputs/contextual_comments.js:19
+#. The vorpal blade went snicker-snack!
+#. He took his vorpal sword in hand
+msgid "Beware the Jabberwock, my son"
+msgstr ""
+
+#: inputs/contextual_comments.js:9
+#. Beware the Jubjub bird, and shun The frumious Bandersnatch!
+msgid "The jaws that bite, the claws that catch!"
+msgid_plural "The jaws %d that bite, the %d claws that catch!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inputs/contextual_comments.js:13
+#. 'Twas brillig, and the slithy toves
+#. Did gyre and gimble in the wabe;
+msgid "One, two! One, two! and through and through"
+msgstr ""
+
+# And hast thou slain the Jabberwock?
+#: inputs/contextual_comments.js:16
+msgid "He went galumphing back."
+msgstr ""
